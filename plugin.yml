@@ -1,0 +1,6 @@
+name: RealTime
+main: net.yzimroni.realtime.RealTimePlugin
+version: 1.0
+authors: [yzimroni]
+description: >
+           The plugin changes the time of the server worlds to the time of the real life.
